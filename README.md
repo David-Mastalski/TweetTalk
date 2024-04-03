@@ -7,4 +7,15 @@
 
 #### You can test the TweetTalk yourself: [Click Here](https://tweettalk.netlify.app/login)
 
-Kopiuj tę komendę: `<command-to-copy>` (najedź, aby skopiować)
+<button id="copyButton1" onclick="copyToClipboard('command1')">Skopiuj komendę 1</button>
+
+<script>
+function copyToClipboard(text) {
+  const el = document.createElement('textarea');
+  el.value = text;
+  document.body.appendChild(el);
+  el.select();
+  document.execCommand('copy');
+  document.body.removeChild(el);
+}
+</script>
