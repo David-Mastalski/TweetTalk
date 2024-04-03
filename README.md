@@ -7,6 +7,17 @@
 
 #### You can test the TweetTalk yourself: [Click Here](https://tweettalk.netlify.app)
 
+## Pre-made user accounts
+
+- **Username**: David
+  - **Email**: david@gmail.com
+  - **Password**: test123
+
+- **Username**: Mia
+  - **Email**: mia@gmail.com
+  - **Password**: test123
+
+
 This is a real-time chat application built using React and Firebase, enabling users to communicate with their friends in real-time.
 
 ## Features
