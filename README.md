@@ -6,3 +6,5 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 #### You can test the TweetTalk yourself: [Click Here](https://tweettalk.netlify.app/login)
+
+Kopiuj tę komendę: `<command-to-copy>` (najedź, aby skopiować)
