@@ -23,4 +23,16 @@ This is a real-time chat application built using React and Firebase, enabling us
 - Firebase: A platform provided by Google for developing mobile and web applications.
   - Firebase Authentication: For user authentication and authorization.
   - Firebase Firestore: A flexible, scalable database for storing and syncing data in real-time.
-  - Firebase Storage: For storing photos.
+  - Firebase Storage: For storing photos.\
+
+ ## Getting Started
+
+To get started with this application, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Install dependencies using `npm install`.
+4. Create a Firebase project on the Firebase Console (https://console.firebase.google.com/).
+5. Set up Firebase Authentication and Firestore for your project.
+6. Add your Firebase configuration to the application.
+7. Run the application using `npm start`.
