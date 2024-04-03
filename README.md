@@ -38,3 +38,13 @@ To get started with this application, follow these steps:
 4.3. Copy your firebaseConfig object
 6. Add your Firebase configuration to the application (src/firebase.js).
 7. Run the application using `npm run dev`.
+
+1. Element pierwszy
+   1.1. Podpunkt pierwszego elementu
+   1.2. Podpunkt drugiego elementu
+2. Element drugi
+3. Element trzeci
+   3.1. Podpunkt trzeciego elementu
+      3.1.1. Podpunkt podpunktu trzeciego elementu
+   3.2. Kolejny podpunkt trzeciego elementu
+4. Element czwarty
