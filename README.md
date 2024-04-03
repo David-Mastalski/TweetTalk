@@ -33,15 +33,10 @@ To get started with this application, follow these steps:
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Create a Firebase project on the Firebase Console (https://console.firebase.google.com/)
-5. Element trzeci
+5. Create a Firebase project on the Firebase Console (https://console.firebase.google.com/)
    - Podpunkt trzeciego elementu
    - Go to "</>"
    - Copy your firebaseConfig object
-      - Podpunkt podpunktu trzeciego elementu
-      - Kolejny podpunkt podpunktu trzeciego elementu
-  - Add new project
-  - Go to "</>"
-  - Copy your firebaseConfig object
 6. Add your Firebase configuration to the application (src/firebase.js).
 7. Run the application using `npm run dev`.
 
