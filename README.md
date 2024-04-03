@@ -17,4 +17,5 @@ function copyToClipboard(text) {
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 #### You can test the TweetTalk yourself: [Click Here](https://tweettalk.netlify.app/login)
-[<button style="background-color: #1bd1b3; color: white; padding: 15px 32px; text-align: center">Click Me</button>](http://example.com/)
+#### You can test the TweetTalk yourself: ![Click Here]https://tweettalk.netlify.app/login-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
