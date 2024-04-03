@@ -1,0 +1,16 @@
+body {
+  --font-size-default: 16px;
+  --font-family-default: "Poppins", sans-serif;
+  /* 400 700 */
+  --dirty-white: #f0f4fa;
+  --light-dirty-white: #f8faff;
+  --white: #fff;
+  --grey: #515151;
+  --text-grey: #7c7c7d;
+  --blue: #5b96f7;
+  --light-blue: #619bf827;
+  --very-light-blue: #eaf2fe;
+  --logo-color: #afbbf7;
+  --light-grey: #ededed;
+  --green: #76d45e;
+}

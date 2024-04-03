@@ -1,0 +1,40 @@
+.shortChat {
+  background-color: var(--white);
+  border-radius: 1.5rem;
+  color: var(--text-grey);
+  cursor: pointer;
+  width: 100%;
+  padding: 2.2rem 1.5rem;
+  display: flex;
+  gap: 1.3rem;
+  justify-content: space-between;
+
+  &.active {
+    background-color: var(--blue);
+    color: white;
+
+    .personInfo p {
+      color: white;
+    }
+  }
+
+  .personInfo {
+    flex: 1;
+    max-width: 18rem;
+    overflow: hidden;
+    p {
+      color: #000;
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
+    span {
+      font-size: 1.2rem;
+      white-space: nowrap;
+    }
+  }
+
+  .time {
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+}

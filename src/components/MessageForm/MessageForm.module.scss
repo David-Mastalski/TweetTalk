@@ -1,0 +1,80 @@
+.formWrapper {
+  background-color: var(--white);
+  width: 100%;
+  padding: 1.5rem 2rem;
+}
+
+form {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+
+  .container {
+    background-color: var(--very-light-blue);
+    border-radius: 1rem;
+    color: var(--blue);
+    font-size: 1.9rem;
+    padding: 1.5rem 2rem;
+    width: 100%;
+
+    &--photoPresentation {
+      display: inline-block;
+      margin-bottom: 1rem;
+
+      .photoWrapper {
+        position: relative;
+        img {
+          border-radius: 0.5rem;
+          object-fit: cover;
+          width: 5.5rem;
+          height: 5.5rem;
+        }
+        button {
+          background-color: var(--very-light-blue);
+          border-radius: 50%;
+          border: 2px solid #c6d5eb;
+          color: var(--blue);
+          width: 2.4rem;
+          height: 2.4rem;
+          position: absolute;
+          top: -0.5rem;
+          right: -0.5rem;
+        }
+      }
+    }
+
+    &--inputs {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+    }
+
+    label {
+      cursor: pointer;
+    }
+
+    input {
+      background-color: transparent;
+      border: none;
+      outline: none;
+      font-size: 1.5rem;
+      width: 100%;
+
+      &::placeholder {
+        font-weight: 500;
+        color: var(--blue);
+      }
+    }
+  }
+}
+
+.submitBtn {
+  background-color: var(--blue);
+  border: none;
+  border-radius: 1.2rem;
+  color: #fff;
+  height: 4.8rem;
+  width: 4.8rem;
+}
