@@ -65,5 +65,5 @@ To get started with this application, follow these steps:
 5. Add your Firebase configuration to the application (src/firebase.js).
 6. Run the application using `npm run dev`.
 
-<img align="left" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo1.png" alt="TweetTalk Demo" width="40%">
-<img align="right" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo2.png" alt="TweetTalk Demo" width="40%">
+<img align="left" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo1.png" alt="TweetTalk Demo" width="45%">
+<img align="right" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo2.png" alt="TweetTalk Demo" width="45%">
