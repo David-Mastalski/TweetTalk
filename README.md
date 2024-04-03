@@ -11,7 +11,7 @@ This is a real-time chat application built using React and Firebase, enabling us
 
 ## Pre-made user accounts
 
-*Username*:  David
+<p>*Username*:  David</p>
 **Email**
 ```
 david@gmail.com
