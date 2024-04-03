@@ -11,12 +11,10 @@ This is a real-time chat application built using React and Firebase, enabling us
 
 ## Pre-made user accounts
 
-<p>*Username*:  David</p>
-**Email**
+*Username*:  David
 ```
 david@gmail.com
 ``` 
-**Password**
 ```
 test123
 ``` 
