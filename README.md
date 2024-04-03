@@ -5,6 +5,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+This is a real-time chat application built using React and Firebase, enabling users to communicate with their friends in real-time.
+
 #### You can test the TweetTalk yourself: [Click Here](https://tweettalk.netlify.app)
 
 ## Pre-made user accounts
@@ -17,8 +19,6 @@
   - **Email**: mia@gmail.com
   - **Password**: test123
 
-
-This is a real-time chat application built using React and Firebase, enabling users to communicate with their friends in real-time.
 
 ## Features
 
