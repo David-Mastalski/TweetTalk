@@ -35,8 +35,8 @@ tom43@gmail.com
 test123
 ```
 
-<img align="left" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo3.png" alt="TweetTalk Demo" width="48%">
-<img align="right" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo4.png" alt="TweetTalk Demo" width="48%">
+<img align="left" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo4.png" alt="TweetTalk Demo" width="48%">
+<img align="right" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo5.png" alt="TweetTalk Demo" width="48%">
 
 ## Features
 
@@ -70,3 +70,4 @@ To get started with this application, follow these steps:
 
 <img align="left" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo1.png" alt="TweetTalk Demo" width="48%">
 <img align="right" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo2.png" alt="TweetTalk Demo" width="48%">
+<img src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo3.png" alt="TweetTalk Demo" width="100%">
