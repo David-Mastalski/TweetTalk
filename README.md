@@ -35,6 +35,8 @@ To get started with this application, follow these steps:
 4. Create a Firebase project on the Firebase Console (https://console.firebase.google.com/)
 5. Element trzeci
    - Podpunkt trzeciego elementu
+   - Go to "</>"
+   - Copy your firebaseConfig object
       - Podpunkt podpunktu trzeciego elementu
       - Kolejny podpunkt podpunktu trzeciego elementu
   - Add new project
