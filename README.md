@@ -1,14 +1,3 @@
-<script>
-function copyToClipboard(text) {
-  const el = document.createElement('textarea');
-  el.value = text;
-  document.body.appendChild(el);
-  el.select();
-  document.execCommand('copy');
-  document.body.removeChild(el);
-}
-</script>
-
 # TweetTalk
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -27,3 +16,11 @@ This is a real-time chat application built using React and Firebase, enabling us
 - **User-Friendly Interface**: The user interface is intuitive and easy to use, allowing users to focus on their conversations without unnecessary distractions.
 - **Data Persistence**: Messages are stored securely in Firebase Firestore, ensuring that users can access their chat history even after closing the application.
 - **Customization**: Users can customize their profiles with avatars and display names to personalize their chat experience.open.
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces.
+- Firebase: A platform provided by Google for developing mobile and web applications.
+  - Firebase Authentication: For user authentication and authorization.
+  - Firebase Firestore: A flexible, scalable database for storing and syncing data in real-time.
+  - Firebase Storage: For storing photos.
