@@ -37,7 +37,10 @@ export function AsideBar() {
           </div>
         </div>
         <div className={styles.sideNav__profile}>
-          <button onClick={() => signOut(auth)} className={styles.logoutBtn}>
+          <button onClick={() => {
+              dispatch({ type: "LOG_OUT" });
+              signOut(auth);
+            }} className={styles.logoutBtn}>
             <FontAwesomeIcon icon={faArrowRightFromBracket} />
           </button>
           <UserPhoto src={currentUser.photoURL} />
