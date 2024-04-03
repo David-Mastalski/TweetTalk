@@ -5,4 +5,4 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-#### You can test the game yourself: [Click Here](https://david-mastalski.github.io/Memory-Games/)
+#### You can test the TweetTalk yourself: [Click Here](https://tweettalk.netlify.app/login)
