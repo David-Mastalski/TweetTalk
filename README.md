@@ -38,6 +38,8 @@ test123
 <img align="left" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo4.png" alt="TweetTalk Demo" width="48%">
 <img align="right" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo5.png" alt="TweetTalk Demo" width="48%">
 
+
+
 ## Features
 
 - **Real-time Communication**: Users can chat with their friends in real-time, with messages instantly appearing for all participants.
