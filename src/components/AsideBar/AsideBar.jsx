@@ -11,9 +11,11 @@ import { signOut } from "firebase/auth";
 import { auth } from "../../firebase";
 import { useContext } from "react";
 import { AuthContext } from "../../context/AuthContext";
+import { ChatContext } from "../../context/ChatContext";
 
 export function AsideBar() {
   const { currentUser } = useContext(AuthContext);
+  const { dispatch } = useContext(ChatContext);
 
   return (
     <div className={styles.sideNav}>
