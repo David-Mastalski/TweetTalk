@@ -37,7 +37,7 @@ test123
 &nbsp;
 
 <img align="left" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo4.png" alt="TweetTalk Demo" width="48%">
-<img align="right" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo5.png" alt="TweetTalk Demo" width="47%">
+<img align="right" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo5.png" alt="TweetTalk Demo" width="48%">
 
 &nbsp;
 &nbsp;
