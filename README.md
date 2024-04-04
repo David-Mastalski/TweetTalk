@@ -40,7 +40,7 @@ test123
 <img align="right" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo5.png" alt="TweetTalk Demo" width="47%">
 
 &nbsp;
-
+&nbsp;
 
 ## Features
 
