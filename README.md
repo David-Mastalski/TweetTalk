@@ -46,5 +46,6 @@ To get started with this application, follow these steps:
 
 <img align="left" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo1.png" alt="TweetTalk Demo" width="47%">
 <img align="right" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo2.png" alt="TweetTalk Demo" width="47%">
+&nbsp;
 <img src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo3.png" alt="TweetTalk Demo" width="100%">
 <img src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo5.png" alt="TweetTalk Demo" width="100%">
