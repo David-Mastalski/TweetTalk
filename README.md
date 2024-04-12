@@ -9,7 +9,7 @@ This is a real-time chat application built using React and Firebase, enabling us
 
 #### You can test the TweetTalk yourself: [Click Here](https://tweettalk.netlify.app)
 
-#### Test it now!!!
+### Test it now!!!
 
 <img align="center" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo4.png" alt="TweetTalk Demo" width="100%">
 
