@@ -11,6 +11,8 @@ This is a real-time chat application built using React and Firebase, enabling us
 
 ----------------------------------------------------------------------------
 ### Test it now!!!
+E-mail: `admin@gmail.com`
+Password: `admin123`
 
 <img align="center" src="https://github.com/David-Mastalski/TweetTalk/blob/main/demo/demo4.png" alt="TweetTalk Demo" width="100%">
 
